@@ -32,6 +32,8 @@ function createInput(text) {
 
 
 //nueva variable con push
-/*inputtypes.push("submit");
-createInput("submit");*/
+/*
+inputtypes.push("submit");
+createInput("submit");
+*/
 
